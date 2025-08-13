@@ -8,3 +8,6 @@ Now that the company is investing in data-driven decision-making, the objective 
 - Tailor marketing strategies to each segment.
 - Optimize promotions and product recommendations.
 - Improve customer retention through targeted engagement.
+
+
+<img width="525" height="325" alt="ERD Ecomerce" src="https://github.com/user-attachments/assets/f86617b1-6b9d-42be-be9f-586231ec4155" />
