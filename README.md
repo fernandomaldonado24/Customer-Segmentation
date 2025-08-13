@@ -91,5 +91,9 @@ Create tailored onboarding flows for Fickle Returners that address likely pain p
 ## Dashboard
 The interactive dashboard can be accessed in Power BI [link here](https://app.powerbi.com/view?r=eyJrIjoiYzcxZjk0YzktNzA4MS00ZGEwLWFhZTUtN2VlN2MwNzE3NWQ0IiwidCI6ImY2OTI5MWY5LTNkYTctNDJiMy05ZjEwLWYyZWFlMjU3ZDVhYiIsImMiOjR9).
 This dashboard allows users to filter by country and customer segment, and focuses on trends and values across key sales and behavioral metrics. Users can explore total sales over time, average basket size, average basket spend, and the distribution of customers across segments. Additionally, it provides detailed profiles for each segment, including total spend, average spend, product diversity, and descriptive behavioral insights.
+<p align="center">
 <img width="638" height="351" alt="Ecommerce dashboard page 1" src="https://github.com/user-attachments/assets/f00f571b-a512-4f2f-8318-e5b42ebc316d" />
+</p>
+<p align="center">
 <img width="638" height="350" alt="Ecommerce dashboard page 2" src="https://github.com/user-attachments/assets/7b43121a-a041-48df-84d2-1ea26fec07db" />
+</p>
