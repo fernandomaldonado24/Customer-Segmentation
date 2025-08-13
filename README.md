@@ -22,9 +22,9 @@ Two fact tables hold the main analytical content:
 
 - Sales – the original transactional dataset, linked to the dimensions for filtering by product, time, or geography.
 - Fact_Clustering – created after applying Machine Learning clustering algorithms to segment customers based on their purchasing behavior. This table stores aggregated behavioral metrics for each segment, enabling further analysis and reporting of customer profiles.
-
+<p align="center">
 <img width="525" height="325" alt="ERD Ecomerce" src="https://github.com/user-attachments/assets/f86617b1-6b9d-42be-be9f-586231ec4155" />
-
+</p>
 ## Insights Summary
 To assess customer behavior and segment performance, we focused on the following key metrics:
 
